@@ -1,6 +1,9 @@
 # Simple Bootable OS #
 
-Inspired by: https://www.youtube.com/watch?v=FkrpUaGThTQ
+Inspired by: 
+
+- https://youtu.be/FkrpUaGThTQ
+- https://youtu.be/wz9CZBeXR6U
 
 Build steps:
 1. ```docker build buildenv/ -t simpleos-buildenv```
